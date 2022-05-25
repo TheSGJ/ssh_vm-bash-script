@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # function to ssh into ubuntu vm
 
 function ubuntu_vm () {
