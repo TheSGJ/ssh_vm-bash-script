@@ -1,5 +1,5 @@
 # Base Script to SSH into vm
-- This chould be useful if you configured password-less login for your cloud linux vm.
+- This chould be useful if you configured password-less login for your linux virtual machine.
 
 ```
 # function to ssh into ubuntu vm
